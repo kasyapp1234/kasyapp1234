@@ -20,9 +20,9 @@
 
 - 🔧 **Data Analyst** with a knack for uncovering insights and crafting data-driven solutions.
 - 📊 Skilled in **data visualization**, **exploratory data analysis**, and **SQL-based querying**.
-- 🐍 Hands-on with Python libraries for wrangling, analyzing, and visualizing complex datasets.
-- 🧠 Passionate about solving real-world problems through data and clear visual narratives.
-- 💬 Open to discussions on **Data Analytics, BI Tools, Tech, and AI**.
+- 🧠 Strong foundation in **machine learning**, model building & evaluation using Python.
+- 🐍 Experienced with **Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn**, and more.
+- 💬 Open to discussions on **Data Analytics, ML, BI Tools, and AI**.
 - 📫 Reach out anytime: **kumaranish61194@gmail.com**
 
 ---
@@ -40,7 +40,14 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-4E8CA0?style=for-the-badge&logo=seaborn&logoColor=white" />
+</p>
+
+### 🤖 Machine Learning Tools & Libraries
+<p align="center">
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
 ### 📊 Data Visualization & BI Tools
@@ -51,7 +58,27 @@
   <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
 </p>
 
+### ☁️ Data Platforms & Notebooks
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</p>
 
+---
+
+## 🚀 Featured Projects
+
+- 📈 [Sales Dashboard in Power BI](https://github.com/your-repo) — Interactive dashboard analyzing regional sales trends and KPIs.
+- 🧹 [Data Cleaning with Pandas](https://github.com/your-repo) — Script to clean and preprocess messy CSV data using Pandas.
+- 🤖 [Customer Segmentation with K-Means](https://github.com/your-repo) — Unsupervised ML project to group customers based on behavior.
+
+> Replace these links with your real project URLs to let others explore your work!
+
+---
 
 ## 🥳 Just for Fun — Party Parrot Army
 
@@ -68,4 +95,5 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%" />
 </p>  
+
 
