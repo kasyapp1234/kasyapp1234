@@ -51,16 +51,7 @@
   <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
 </p>
 
----
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=legcy143&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=legcy143&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🥳 Just for Fun — Party Parrot Army
 
