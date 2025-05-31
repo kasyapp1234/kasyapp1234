@@ -80,20 +80,5 @@
 
 ---
 
-## 🥳 Just for Fun — Party Parrot Army
-
-<p align="center">
-  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" />
-  <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%" />
-</p>  
-
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" >
 
