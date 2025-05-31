@@ -76,9 +76,5 @@
 - 🧹 [Data Cleaning with Pandas](https://github.com/your-repo) — Script to clean and preprocess messy CSV data using Pandas.
 - 🤖 [Customer Segmentation with K-Means](https://github.com/your-repo) — Unsupervised ML project to group customers based on behavior.
 
-> Replace these links with your real project URLs to let others explore your work!
-
----
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" >
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="100%" >
 
