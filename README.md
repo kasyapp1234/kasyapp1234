@@ -31,7 +31,7 @@
 
 ### 🧠 Languages & Querying
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,html,css" />
 </p>
 
 ### 📦 Python Libraries for Data Analysis
