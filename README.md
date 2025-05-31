@@ -11,7 +11,7 @@
   <a href="mailto:kumaranish61194@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-kumaranish61194@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=legcy143&style=for-the-badge&label=Profile+Views&color=0e75b6" />
+  <img src="https://komarev.com/ghpvc/?username=kasyapp1234&style=for-the-badge&label=Profile+Views&color=0e75b6" />
 </p>
 
 ---
